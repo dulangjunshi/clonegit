@@ -10,4 +10,4 @@ Creating a new branch is quick AND simple
 www.geogle.com
 =======
 www.baidu.com
->>>>>>> Stashed changes
+>>>>>>> Stashed changes add more info
